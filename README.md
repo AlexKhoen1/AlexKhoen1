@@ -1,6 +1,6 @@
 ### Hi there, I am AlexKhoen1 👋🏻
 ----------------------------------------------
-- 💻 I’m currently working on tableti.ga...
+- 💻 I’m currently working on tableti.ga
 - 🌱 I’m currently learning python...
 - 🎞 I’m looking to collaborate on Youtube.
 - 📫 How to reach me:  [Twitter - @AlexKhoen1](https://twitter.com/AlexKhoen1).
